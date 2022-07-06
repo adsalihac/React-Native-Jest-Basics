@@ -9,4 +9,4 @@ const Snap = () => {
   )
 }
 
-export default {Snap}
+export default Snap
