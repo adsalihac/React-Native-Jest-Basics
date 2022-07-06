@@ -11,9 +11,9 @@
   },
   "dependencies": {
     "axios": "^0.27.2",
-    "jest-environment-jsdom": "^27.4.4",
     "react": "18.0.0",
-    "react-native": "0.69.1"
+    "react-native": "0.69.1",
+    "react-shallow-testutils": "^3.0.1"
   },
   "devDependencies": {
     "@babel/core": "^7.18.6",
